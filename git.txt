@@ -1,0 +1,15 @@
+gicd /directory name
+mkdir foldername
+cd foldername
+touch filename.txt
+vi filename.txt
+git init 
+git config --local/--global user.email enter ur email
+git config --local/--global user.name  enter ur name
+git status
+git add .(or) git add filename
+git commit -m "commit" (for one line comment)
+vi filename
+:wq (to return )
+git add .
+git commit (for multiple line comments)
